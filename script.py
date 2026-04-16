@@ -52,7 +52,7 @@ if not os.path.exists(CARPETA_DESCARGAS):
 # Inicializar cliente de Telethon
 client = TelegramClient("sesion_usuario", API_ID, API_HASH)
 
-YOUTUBE_REGEX = r"(https?://)?(www\.)?(youtube|youtu|youtube-nocookie)\.(com|be)/(watch\?v=|embed/|v/|.+\?v=)?([^&=%\?]{11})"
+YOUTUBE_REGEX = r"(https?://)?(www\.)?(youtube|youtu|youtube-nocookie)\.(com|be)/(watch\?v=|embed/|v/|live/|shorts/|.+\?v=)?([^&=%\?]{11})"
 
 
 def descargar_video(url, carpeta_salida):
