@@ -1,19 +1,23 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://soul23.mx/logo/s23_logo_wh.png">
-    <img src="https://soul23.mx/logo/s23_logo_blk.png" alt="Soul23" width="110">
-  </picture>
+<div align="center">
+
+<img src="https://soul23.mx/logo/soul23_logo.svg" width="90" alt="Soul23">
+
+# Yt Telegram
+
+Automated Telegram bot for social media operations 🤖
+
+<p>
+    <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python">
+
 </p>
+
+</div>
+
+---
 
 <h1 align="center">yt_telegram.git</h1>
 
-<p align="center">
-  - 📥 Descarga a Medida: Extrae el mejor formato de video y audio combinados (hasta la resolución máxima definida, ej. 720p).
-</p>
 
-<p align="center">
-  [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/marcogll)
-</p>
 
 
 ## ✨ Características Principales
@@ -97,3 +101,4 @@ Una vez introducido, se creará un archivo llamado sesion_usuario.session. A par
 📝 Funcionamiento Interno
 Manjeo de Errores Asíncronos: Las descargas utilizan run_in_executor para evitar bloquear el bucle de eventos principal de Telegram. Mientras un video de 1GB se descarga, el bot sigue siendo capaz de leer nuevos mensajes.
 Logs Profesionales: El uso de logging permite monitorear cada acción del bot (descargas, eliminación de archivos y actualizaciones de dependencias) con su respectiva marca de tiempo, ideal para servidores, VPS o Docker.
+
