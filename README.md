@@ -1,6 +1,20 @@
-# 🤖 Telegram YouTube Downloader Bot
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_wh.png">
+    <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_blk.png" alt="Soul23" width="110">
+  </picture>
+</p>
 
-Un bot/userbot automatizado creado en Python que monitorea un grupo de Telegram y descarga videos de YouTube enviados por usuarios autorizados. Utiliza **Telethon** para la interacción con Telegram y **yt-dlp** para las descargas de alta calidad.
+<h1 align="center">yt_telegram.git</h1>
+
+<p align="center">
+  - 📥 Descarga a Medida: Extrae el mejor formato de video y audio combinados (hasta la resolución máxima definida, ej. 720p).
+</p>
+
+<p align="center">
+  [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/marcogll)
+</p>
+
 
 ## ✨ Características Principales
 
