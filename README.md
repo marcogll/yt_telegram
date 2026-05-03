@@ -1,31 +1,25 @@
-<div align="center">
-
-<a href="https://soul23.mx">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo_wh.png">
-  <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo_blk.png" alt="Soul23" width="110">
-</picture>
-</a>
-
-</div>
-
-# Yt Telegram
-
-Bot automatizado para gestión de operaciones 🤖
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  <img src="https://img.shields.io/badge/Español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
-  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/soul23/logo/soul23_logo.svg" width="110" alt="Soul23">
 </p>
 
----
+<h1 align="center">Yt Telegram</h1>
 
-<h1 align="center">yt_telegram.git</h1>
+<p align="center">
+  Bot automatizado para operaciones 🤖
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3a3a3a?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Telegram-3a3a3a?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+</p>
 
+  Bot automatizado para operaciones 🤖
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3a3a3a?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Telegram-3a3a3a?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+</p>
 
 ## ✨ Características Principales
 
@@ -108,6 +102,7 @@ Una vez introducido, se creará un archivo llamado sesion_usuario.session. A par
 📝 Funcionamiento Interno
 Manjeo de Errores Asíncronos: Las descargas utilizan run_in_executor para evitar bloquear el bucle de eventos principal de Telegram. Mientras un video de 1GB se descarga, el bot sigue siendo capaz de leer nuevos mensajes.
 Logs Profesionales: El uso de logging permite monitorear cada acción del bot (descargas, eliminación de archivos y actualizaciones de dependencias) con su respectiva marca de tiempo, ideal para servidores, VPS o Docker.
+
 
 
 
