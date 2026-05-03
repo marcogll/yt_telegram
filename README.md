@@ -7,17 +7,15 @@
 </picture>
 </a>
 
+</div>
+
 # Yt Telegram
 
-Automated Telegram bot for social media operations 🤖
+Bot de Telegram para automatización y gestión de operaciones 🤖
 
 <p>
-    <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python">
-
-  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
 </p>
-
-</div>
 
 ---
 
@@ -107,4 +105,5 @@ Una vez introducido, se creará un archivo llamado sesion_usuario.session. A par
 📝 Funcionamiento Interno
 Manjeo de Errores Asíncronos: Las descargas utilizan run_in_executor para evitar bloquear el bucle de eventos principal de Telegram. Mientras un video de 1GB se descarga, el bot sigue siendo capaz de leer nuevos mensajes.
 Logs Profesionales: El uso de logging permite monitorear cada acción del bot (descargas, eliminación de archivos y actualizaciones de dependencias) con su respectiva marca de tiempo, ideal para servidores, VPS o Docker.
+
 
